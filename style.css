@@ -209,3 +209,13 @@ position: relative;
   
    
 }
+.secimgg video {
+    position: absolute;
+    z-index: -1;
+    bottom: -385px;
+    right: 90px; 
+    width: 460px;
+  top:46px;
+  
+   
+}
